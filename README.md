@@ -10,4 +10,3 @@ Projeto de um site em Django
 Para desinstalar
 deactivate
 """
-
